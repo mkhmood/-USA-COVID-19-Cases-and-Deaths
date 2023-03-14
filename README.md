@@ -12,4 +12,6 @@ Visualizing USA's COVID-19 Cases and Deaths
 
 ![Percentage of Cases by Year](https://user-images.githubusercontent.com/126218708/222938544-e2d8f5ef-49a9-49f5-a3b4-083785351736.jpg)
 
+Link to Tableau visuals: https://public.tableau.com/views/CovidProject_16772851669870/NewCasesandDeathsOverTime?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Source of data: U.S. Department of Health & Human Services
